@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/wSCZ3fz" height="80%" width="80%" alt="ISS Steps"/>
+<img src= "blob:https://imgur.com/96e1ef32-8a0a-4251-abdf-d30714c9ccd3" height="80%" width="80%" alt="ISS Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows WITH CGI
@@ -36,7 +36,7 @@ Install / Enable IIS in Windows WITH CGI
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/Toa2qwx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install PHP Manager for IIS:
