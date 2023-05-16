@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src= "blob:https://imgur.com/96e1ef32-8a0a-4251-abdf-d30714c9ccd3" height="80%" width="80%" alt="ISS Steps"/>
+<img src= "https://i.imgur.com/5LT9dmY.png" height="80%" width="80%" alt="ISS Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows WITH CGI
@@ -36,7 +36,7 @@ Install / Enable IIS in Windows WITH CGI
 <br />
 
 <p>
-<img src="https://imgur.com/a/Toa2qwx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UmF4Tav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install PHP Manager for IIS:
@@ -49,7 +49,7 @@ Run the downloaded file and follow the on-screen instructions to install PHP Man
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N50YjL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install the Rewrite Module:
@@ -59,7 +59,7 @@ Run the downloaded file and follow the installation instructions to install the 
 </p>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hsTOjTr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and unzip PHP 7.3.8:
@@ -72,7 +72,7 @@ Copy the extracted files from the PHP folder to the "C:\PHP" directory.
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BwqTLWl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install VC_redist.x86.exe:
@@ -83,18 +83,13 @@ Run the downloaded file and follow the installation instructions to install the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NKQS2pO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install MySQL 5.5.62:
 
 Download the "mysql-5.5.62-win32.msi" file for MySQL 5.5.62.
 Run the downloaded file and follow the installation instructions to install MySQL.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Launch Configuration Wizard for MySQL:
@@ -108,7 +103,7 @@ Launch the MySQL Configuration Wizard after the installation.
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZdBGhSH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open IIS as an Admin:
@@ -119,7 +114,7 @@ Run it as an administrator to have the necessary permissions.
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hsTOjTr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Register PHP from within IIS:
@@ -132,7 +127,7 @@ Select the newly registered PHP version.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZrcmRqr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Reload IIS:
@@ -142,7 +137,7 @@ Click on "Restart" in the right-hand panel to reload IIS.
 </p>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wdoLyp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install osTicket v1.15.8:
@@ -156,7 +151,7 @@ Copy the "osTicket" folder to "C:\inetpub\wwwroot".
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zu9OHRp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to sites -> Default -> osTicket
@@ -164,7 +159,9 @@ On the right, click “Browse *:80”
 </p>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P3nDeMc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<img src="https://i.imgur.com/akWGsZW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -181,7 +178,7 @@ Refresh the osTicket site in your browser, observe the changes
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vMjkA1l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Set Permissions for ost-config.php:
@@ -189,9 +186,10 @@ Set Permissions for ost-config.php:
 Go to "C:\inetpub\wwwroot\osTicket\include".
 Rename "ost-sampleconfig.php" to "ost-config.php".
 Right-click on "ost-config.php" and select "Properties".
-In the</p>
+</p>
 <br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XhT3A7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/glBR3Ey.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -203,19 +201,22 @@ New Permissions -> Everyone -> All
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9B1RyxH.png" height="80%" width="80%" alt="Disk Sanitizatio"/>
+ <img src="https://i.imgur.com/XFsTzdY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/cq00b9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install HeidiSQL.
 Open Heidi SQL
 Create a new session, root/Password1
-Connect to the session
+Connect to the session[
+](https://i.imgur.com/cq00b9h.png)
 Create a database called “osTicket”
 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure osTicket:
